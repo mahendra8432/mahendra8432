@@ -100,8 +100,5 @@
 
 <hr style="border: 0; border-top: 1px solid #ccc;">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahendra8432&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc;">
