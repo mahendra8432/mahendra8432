@@ -100,9 +100,6 @@
 
 <hr style="border: 0; border-top: 1px solid #ccc;">
 
-### GitHub Stats:
-- [GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mahendra8432)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahendra8432&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
