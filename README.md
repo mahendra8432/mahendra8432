@@ -1,104 +1,90 @@
-<h1 align="center">Hi 👋, I'm Mahendra Bansode</h1>
-<h3 align="center">
-  I'm a passionate full-stack developer with experience in creating dynamic and responsive web applications using a variety of technologies. 
-  I love learning new things and sharing knowledge with the community.
-</h3>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahendra8432&label=Profile%20views&color=0e75b6&style=flat" alt="mahendra8432" />
+
+<!-- Animated typing effect -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Mahendra;Full-Stack+Developer;Problem+Solver;Continuous+Learner&font=Fira+Code&size=32&duration=4000&pause=1000&color=7A4FEF&width=435)
+
+<!-- Profile views counter with modern badge -->
+<img src="https://komarev.com/ghpvc/?username=mahendra8432&label=Profile%20Views&color=7A4FEF&style=for-the-badge" alt="mahendra8432" />
+
+<!-- Short bio with emojis -->
+<p align="center">
+  🔭 Building robust web applications | 🌱 Exploring DevOps & Cloud | 🚀 Passionate about clean code
+</p>
+
+<!-- Social badges with icons -->
+<p align="center">
+  <a href="https://linkedin.com/in/mahendrabansode" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/mahendra8432" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:msbansode8432@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
 </div>
 
-<hr style="border: 0; border-top: 1px solid #e0e0e0; margin: 10px 0;">
+---
 
-### 🔭 I’m currently working on:
-- Improving my expertise in both frontend and backend development.
-- Experimenting with modern frameworks and tools to stay updated with industry trends.
-- Building personal web development projects to further expand and diversify my collection of work.
+## 🚀 About Me
 
-<hr style="border: 0; border-top: 1px solid #e0e0e0; margin: 10px 0;">
+I'm a passionate **Full-Stack Developer** with expertise in building dynamic, responsive web applications. I thrive on creating elegant solutions to complex problems and enjoy the entire development journey—from ideation to deployment.
 
+## 🛠️ Tech Stack
 
-### 🌱 I’m currently learning:
-- DevOps practices and cloud services.
+### **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<hr style="border: 0; border-top: 1px solid #e0e0e0; margin: 10px 0;">
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 👯 I’m looking to collaborate on:
-- Building innovative web applications with a focus on user experience.
+### **Tools & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<hr style="border: 0; border-top: 1px solid #e0e0e0; margin: 10px 0;">
-
-
-### 🤝 I’m looking for help with:
-- Optimizing performance for large-scale web applications.
-- Exploring advanced DevOps practices and CI/CD pipeline setups.
-- Learning about machine learning integration in full-stack projects.
-
-<hr style="border: 0; border-top: 1px solid #e0e0e0; margin: 10px 0;">
-
-
-### 💬 Ask me about:
-- Web development, including both frontend and backend technologies.
-- Full-stack development using JavaScript, Node.js, and modern frameworks.
-
-<hr style="border: 0; border-top: 1px solid #e0e0e0; margin: 10px 0;">
-
-### 📫 How to reach me:
-- **msbansode8432@gmail.com**
-
-<hr style="border: 0; border-top: 1px solid #e0e0e0; margin: 10px 0;">
-
-### ⚡ Fun fact:
-- I have a deep interest in philosophy and enjoy reading about different schools of thought, from ancient to modern thinkers!
-
-<hr style="border: 0; border-top: 1px solid #e0e0e0; margin: 10px 0;">
+---
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/mahendrabansode" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.leetcode.com/mahendra8432" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-</p>
 
-<hr style="border: 0; border-top: 1px solid #ccc;">
+## 🔄 Currently
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Version Control -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+| 🎯 **Working On** | 🌱 **Learning** | 🤝 **Collaborate On** |
+|-------------------|-----------------|----------------------|
+| • Modern web apps with React & Node.js<br>• Performance optimization techniques<br>• Open-source contributions | • Advanced DevOps (Docker, Kubernetes)<br>• Cloud platforms (AWS/Azure)<br>• Machine learning basics | • Innovative SaaS products<br>• Developer tools & libraries<br>• Educational tech projects |
 
-  <!-- Backend Development -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+---
 
-  <!-- Frontend Development -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+## 📬 Get in Touch
 
-  <!-- Deployment and Hosting -->
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+- **Email**: msbansode8432@gmail.com
+- **LinkedIn**: [mahendrabansode](https://linkedin.com/in/mahendrabansode)
+- **LeetCode**: [mahendra8432](https://leetcode.com/mahendra8432)
 
-  <!-- Additional Tools -->
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-</p>
+---
 
-<hr style="border: 0; border-top: 1px solid #ccc;">
+## 💡 Quick Facts
 
-
-<hr style="border: 0; border-top: 1px solid #ccc;">
+```javascript
+const mahendra = {
+  pronouns: "he" | "him",
+  code: ["JavaScript", "Python", "C++", "HTML/CSS"],
+  frameworks: ["React", "Node.js", "Express"],
+  databases: ["MongoDB", "MySQL"],
+  tools: ["Git", "Docker", "Figma", "VS Code"],
+  interests: ["Web Dev", "DevOps", "UI/UX", "Philosophy"],
+  funFact: "I enjoy exploring philosophical concepts while debugging code!"
+};
