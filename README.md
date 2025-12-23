@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate developer who loves crafting **elegant solutions** to complex problems. Whether it's building scalable backends, designing intuitive UIs, or optimizing performance—I'm all in. I believe in **learning in public**, **building with purpose**, and **sharing knowledge**.
+I'm a passionate developer who loves crafting **elegant solutions** to complex problems. Whether it's building scalable backends, designing intuitive UIs, or optimizing performance I'm all in. I believe in **learning in public**, **building with purpose**, and **sharing knowledge**.
 
 > *"Learn. Build. Share. Repeat."* 🔄
 
